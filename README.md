@@ -1,7 +1,7 @@
 ![template](bgc.jpg "template")
 
 <!--<h1 align="center">Hi 👋, I'm <span style="color: #4276DD">ShurpoT</span></h1>-->
-<h1 align="center"><span style="color: #4276DD">Hello</span> 👋</h1>
+<h1 align="center" style="color: #4276DD">Hello 👋</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
