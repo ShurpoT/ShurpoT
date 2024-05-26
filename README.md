@@ -1,4 +1,4 @@
-![template](bgc.jpg "template")
+<!--![template](bgc.jpg "template")-->
 
 <!--<h1 align="center">Hi 👋, I'm <span style="color: #4276DD">ShurpoT</span></h1>-->
 <h1 align="center" style="color: #4276DD">Hello 👋</h1>
